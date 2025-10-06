@@ -354,9 +354,9 @@ Publish the website in the given URL.
 </html>
 ```
 # OUTPUT:
-<img width="1920" height="1080" alt="Screenshot 2025-10-05 201321" src="https://github.com/user-attachments/assets/290ad700-31b3-4560-8b63-0b60e2414961" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-05 201302" src="https://github.com/user-attachments/assets/0d70bf48-1fd1-4b5c-a405-04c1d725a099" />
-<img width="1920" height="1080" alt="Screenshot 2025-10-05 201230" src="https://github.com/user-attachments/assets/caf6d393-188f-4729-9a39-7920189e3ba4" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 212211" src="https://github.com/user-attachments/assets/bf21f804-bcd7-4e44-8655-95ec1672dc8b" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 212231" src="https://github.com/user-attachments/assets/dc298865-6ec8-4b1c-b1e6-bae09813a30f" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 212255" src="https://github.com/user-attachments/assets/f5ddf099-a0b2-48cd-8691-824d5ea6e15b" />
 
 
 
